@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zeus</key>
+	<array>
+		<string>Júpiter</string>
+		<string>Dios del cielo</string>
+		<string>Águila</string>
+	</array>
+	<key>Hera</key>
+	<array>
+		<string>Juno</string>
+		<string>Diosa de la familia</string>
+		<string>Pavo Real</string>
+	</array>
+	<key>Poseidon</key>
+	<array>
+		<string>Neptuno</string>
+		<string>Dios del mar</string>
+		<string>Tridente</string>
+	</array>
+	<key>Dionisio</key>
+	<array>
+		<string>Baco</string>
+		<string>Dios del vino</string>
+		<string>Copa</string>
+	</array>
+	<key>Apolo</key>
+	<array>
+		<string>Febo</string>
+		<string>Dios del sol</string>
+		<string>Lira</string>
+	</array>
+	<key>Artemisa</key>
+	<array>
+		<string>Diana</string>
+		<string>Diosa de la caza</string>
+		<string>Arco y flecha</string>
+	</array>
+	<key>Hermes</key>
+	<array>
+		<string>Mercurio</string>
+		<string>Dios del comercio</string>
+		<string>Caduceo</string>
+	</array>
+	<key>Atenea</key>
+	<array>
+		<string>Minerva</string>
+		<string>Diosa de la sabiduría</string>
+		<string>Lechuza</string>
+	</array>
+	<key>Ares</key>
+	<array>
+		<string>Marte</string>
+		<string>Dios de la guerra</string>
+		<string>Escudo</string>
+	</array>
+	<key>Afrodita</key>
+	<array>
+		<string>Venus</string>
+		<string>Diosa del amor</string>
+		<string>Paloma</string>
+	</array>
+	<key>Hefesto</key>
+	<array>
+		<string>Vulcano</string>
+		<string>Dios del fuego</string>
+		<string>Yunque</string>
+	</array>
+	<key>Demeter</key>
+	<array>
+		<string>Ceres</string>
+		<string>Diosa de la agricultura</string>
+		<string>Trigo</string>
+	</array>
+</dict>
+</plist>

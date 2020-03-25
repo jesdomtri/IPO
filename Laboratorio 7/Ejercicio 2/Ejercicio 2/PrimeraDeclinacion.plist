@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Nominativo</key>
+	<dict>
+		<key>Singular</key>
+		<string>a</string>
+		<key>Plural</key>
+		<string>ae</string>
+	</dict>
+	<key>Vocativo</key>
+	<dict>
+		<key>Singular</key>
+		<string>a</string>
+		<key>Plural</key>
+		<string>ae</string>
+	</dict>
+	<key>Acusativo</key>
+	<dict>
+		<key>Singular</key>
+		<string>am</string>
+		<key>Plural</key>
+		<string>as</string>
+	</dict>
+	<key>Genitivo</key>
+	<dict>
+		<key>Singular</key>
+		<string>ae</string>
+		<key>Plural</key>
+		<string>arum</string>
+	</dict>
+	<key>Dativo</key>
+	<dict>
+		<key>Singular</key>
+		<string>ae</string>
+		<key>Plural</key>
+		<string>is</string>
+	</dict>
+	<key>Ablativo</key>
+	<dict>
+		<key>Singular</key>
+		<string>a</string>
+		<key>Plural</key>
+		<string>is</string>
+	</dict>
+	<key>Locativo</key>
+	<dict>
+		<key>Singular</key>
+		<string>ae</string>
+		<key>Plural</key>
+		<string>ae</string>
+	</dict>
+</dict>
+</plist>

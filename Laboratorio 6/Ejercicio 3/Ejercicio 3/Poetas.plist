@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Cervantes</string>
+		<string>1547</string>
+		<string>1616</string>
+	</array>
+	<array>
+		<string>Gongora</string>
+		<string>1561</string>
+		<string>1627</string>
+	</array>
+	<array>
+		<string>Lope de Vega</string>
+		<string>1562</string>
+		<string>1635</string>
+	</array>
+	<array>
+		<string>Quevedo</string>
+		<string>1580</string>
+		<string>1645</string>
+	</array>
+	<array>
+		<string>Calderon de la Barca</string>
+		<string>1600</string>
+		<string>1681</string>
+	</array>
+</array>
+</plist>

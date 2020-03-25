@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zeus</key>
+	<string>Griego</string>
+	<key>Hera</key>
+	<string>Griego</string>
+	<key>Poseidón</key>
+	<string>Griego</string>
+	<key>Dionisio</key>
+	<string>Griego</string>
+	<key>Apolo</key>
+	<string>Griego</string>
+	<key>Artemisa</key>
+	<string>Griego</string>
+	<key>Hermes</key>
+	<string>Griego</string>
+	<key>Atenena</key>
+	<string>Griego</string>
+	<key>Afrodita</key>
+	<string>Griego</string>
+	<key>Hefesto</key>
+	<string>Griego</string>
+	<key>Deméter</key>
+	<string>Griego</string>
+	<key>Júpiter</key>
+	<string>Griego</string>
+	<key>Juno</key>
+	<string>Romano</string>
+	<key>Neptuno</key>
+	<string>Romano</string>
+	<key>Baco</key>
+	<string>Romano</string>
+	<key>Febo</key>
+	<string>Romano</string>
+	<key>Diana</key>
+	<string>Romano</string>
+	<key>Mercurio</key>
+	<string>Romano</string>
+	<key>Minerva</key>
+	<string>Romano</string>
+	<key>Marte</key>
+	<string>Romano</string>
+	<key>Venus</key>
+	<string>Romano</string>
+	<key>Vulcano</key>
+	<string>Romano</string>
+	<key>Ceres</key>
+	<string>Romano</string>
+	<key>Huitzilopochtli</key>
+	<string>Azteca</string>
+	<key>Quetzalcóatl</key>
+	<string>Azteca</string>
+	<key>Tezcatlipoca</key>
+	<string>Azteca</string>
+	<key>Tláloc</key>
+	<string>Azteca</string>
+	<key>Xipe Tótec </key>
+	<string>Azteca</string>
+	<key>Xiuhtecuhtli</key>
+	<string>Azteca</string>
+	<key>Ra</key>
+	<string>Egipcio</string>
+	<key>Amón</key>
+	<string>Egipcio</string>
+	<key>Isis</key>
+	<string>Egipcio</string>
+	<key>Osiris</key>
+	<string>Egipcio</string>
+	<key>Horus</key>
+	<string>Egipcio</string>
+	<key>Seth</key>
+	<string>Egipcio</string>
+	<key>Maat</key>
+	<string>Egipcio</string>
+	<key>Ptah</key>
+	<string>Egipcio</string>
+	<key>Thot</key>
+	<string>Egipcio</string>
+	<key>Viracocha</key>
+	<string>Inca</string>
+	<key>Mama Quilla</key>
+	<string>Inca</string>
+	<key>Pacha Mama</key>
+	<string>Inca</string>
+	<key>Pachacamac</key>
+	<string>Inca</string>
+	<key>Mama Sara</key>
+	<string>Inca</string>
+	<key>Mama Cocha</key>
+	<string>Inca</string>
+</dict>
+</plist>

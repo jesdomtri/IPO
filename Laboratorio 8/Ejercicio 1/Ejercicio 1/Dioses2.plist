@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Griego</key>
+	<array>
+		<string>Zeus</string>
+		<string>Hera</string>
+		<string>Posiedón</string>
+		<string>Dionisio</string>
+		<string>Apolo</string>
+		<string>Artemisa</string>
+		<string>Hermes</string>
+		<string>Atenea</string>
+		<string>Afrodita</string>
+		<string>Hefesio</string>
+		<string>Deméter</string>
+	</array>
+	<key>Romano</key>
+	<array>
+		<string>Júpiter</string>
+		<string>Juno</string>
+		<string>Neptuno</string>
+		<string>Baco</string>
+		<string>Febo</string>
+		<string>Diana</string>
+		<string>Mercurio</string>
+		<string>Minerva</string>
+		<string>Marte</string>
+		<string>Venus</string>
+		<string>Vulcano</string>
+		<string>Ceres</string>
+	</array>
+	<key>Azteca</key>
+	<array>
+		<string>Huitzilopochtli</string>
+		<string>Quetzalcóatl</string>
+		<string>Tezcatlipoca</string>
+		<string>Tláloc</string>
+		<string>Xipe Tótec </string>
+		<string>Xiuhtecuhtli</string>
+	</array>
+	<key>Egipcio</key>
+	<array>
+		<string>Ra</string>
+		<string>Amón</string>
+		<string>Isis</string>
+		<string>Osiris</string>
+		<string>Horus</string>
+		<string>Seth</string>
+		<string>Maat</string>
+		<string>Ptah</string>
+		<string>Thot</string>
+	</array>
+	<key>Inca</key>
+	<array>
+		<string>Viracocha</string>
+		<string>Mama Quilla</string>
+		<string>Pacha Mama</string>
+		<string>Pachacamac</string>
+		<string>Mama Sara</string>
+		<string>Mama Cocha</string>
+	</array>
+</dict>
+</plist>
